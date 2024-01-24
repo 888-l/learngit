@@ -15,7 +15,7 @@ $ pwd
 pwd：用于显示当前目录
 ```
 
-![1705504440973](C:\Users\Lincoln\AppData\Roaming\Typora\typora-user-images\1705504440973.png)
+![1705504440973](https://888-l.oss-cn-guangzhou.aliyuncs.com/test/202401221121837.png)
 
 ### 创建仓库
 
@@ -49,7 +49,7 @@ git commit:把文件提交到仓库
 $ git add file2.txt file3.txt
 ```
 
-![1705504469283](C:\Users\Lincoln\AppData\Roaming\Typora\typora-user-images\1705504469283.png)
+![1705504469283](https://888-l.oss-cn-guangzhou.aliyuncs.com/test/202401221121425.png)
 
 ## 时光机穿梭
 
@@ -167,7 +167,7 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 
 `id_rsa.pub`是公钥，可以放心地告诉任何人
 
-![1705673422434](C:\Users\Lincoln\AppData\Roaming\Typora\typora-user-images\1705673422434.png)
+![1705673422434](https://888-l.oss-cn-guangzhou.aliyuncs.com/test/202401221121284.png)
 
 ### 添加远程库
 
@@ -282,7 +282,7 @@ $ git switch -c dev
 $ git switch master
 ```
 
-![1705742678655](C:\Users\Lincoln\AppData\Roaming\Typora\typora-user-images\1705742678655.png)
+![1705742678655](https://888-l.oss-cn-guangzhou.aliyuncs.com/test/202401221121683.png)
 
 ### 解决冲突
 
@@ -296,7 +296,7 @@ $ git merge feature1
 
 也可以用git log看到分支的合并情况：
 
-![1705754430489](C:\Users\Lincoln\AppData\Roaming\Typora\typora-user-images\1705754430489.png)
+![1705754430489](https://888-l.oss-cn-guangzhou.aliyuncs.com/test/202401221121925.png)
 
 ### 分支管理策略
 
